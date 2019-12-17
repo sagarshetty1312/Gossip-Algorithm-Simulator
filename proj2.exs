@@ -1,0 +1,1 @@
+Proj.main(System.argv())
